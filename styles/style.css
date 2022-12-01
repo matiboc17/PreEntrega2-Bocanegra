@@ -89,7 +89,7 @@
     }
   
     .CapacitacionIndex {
-      background-image: url(../assets/images/CapaIndex.png);
+      background-image: url(../../assets/images/CapaIndex.png);
       background-size: cover;
       background-position: top;
 
@@ -97,7 +97,7 @@
     }
   
     .CapacitacionIndex2 {
-      background-image: url(../assets/images/CapaIndex2.png);
+      background-image: url(../../assets/images/CapaIndex2.png);
       background-size: cover;
       background-position: top;
 
@@ -2791,13 +2791,13 @@
     }
   
     .indexFondoElla {
-      background-image: url(../assets/images/ella.jpg);
+      background-image: url(/assets/images/CapaIndex.png);
       background-size: cover;
       background-position: top;
     }
   
     .indexFondoEl {
-      background-image: url(../assets/images/el.jpg);
+      background-image: url(/assets/images/CapaIndex2.png);
       background-size: cover;
       background-position: top;
     }
